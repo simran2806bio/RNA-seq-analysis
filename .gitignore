@@ -5,3 +5,11 @@ data/
 *.bam
 *.sam
 *.sra
+
+refs/
+results/salmon/
+results/qc/
+.RData
+.Rhistory
+MDD_DESeq2_final.R
+README_old.md
