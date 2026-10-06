@@ -13,7 +13,7 @@ FASTQ -> FastQC -> Salmon -> tximport -> DESeq2 -> Excel
 - DESeq2: 251,955 transcripts tested, 9 Significant DEGs (padj<0.1)
     - 4 UP in MDD: ENST00000623070.5 (log2FC +9.27, padj 1.5e-07)
     - 5 DOWN in MDD: ENST00000448629.8 (log2FC -9.59, padj 8.5e-08)
-- File: results/deseq2/MDD_SIGNIFICANT_DEGs_FINAL_EXCEL.xlsx
+- - File: [results/deseq2/MDD_SIGNIFICANT_DEGs_FINAL_EXCEL.xlsx](results/deseq2/MDD_SIGNIFICANT_DEGs_FINAL_EXCEL.xlsx)
 
 ## Troubleshooting
 See docs/TROUBLESHOOTING.md - Yeast vs Human issue explained.
