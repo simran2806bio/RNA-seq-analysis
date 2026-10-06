@@ -13,3 +13,5 @@ results/qc/
 .Rhistory
 MDD_DESeq2_final.R
 README_old.md
+results/deseq2/MDD_vs_Control_DEGs_FINAL_4samples.csv
+results/deseq2/*_4samples.csv
