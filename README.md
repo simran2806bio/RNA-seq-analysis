@@ -21,3 +21,5 @@ See docs/TROUBLESHOOTING.md - Yeast vs Human issue explained.
 ## Author
 Simran Gupta - Bioinformatics - Agra, India
 
+
+> Last updated: 6 Oct 2026 - Final lightweight version with 9 DEGs
